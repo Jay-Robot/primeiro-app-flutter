@@ -7,11 +7,7 @@
          FlutterApplication and put your custom class here. -->
     <application
         android:name="io.flutter.app.FlutterApplication"
-<<<<<<< HEAD
         android:label="todo"
-=======
-        android:label="primeiro_app_flutter"
->>>>>>> a60caa1e0a25397c98b117d7f1604d46cc7602de
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
